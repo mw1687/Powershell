@@ -1,0 +1,12 @@
+AD-Computer-Info.ps1 is a sample powershell script of a Active Directory Utility that I wrote for my organization's individual use case.
+
+This can be used as a sample template to customize for your use case.
+
+This utility queries Active Directory and looks up Computer Properties that we deemed useful.
+You have the ability to disable the computer and move to a disabled OU at the click of a button.
+
+Please feel free to reach out with any questions
+
+Thank you,
+Matt Wilson
+mw1687@me.com
